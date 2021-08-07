@@ -18,10 +18,7 @@
 
 <h2><b>빵켓 - <a href="https://github.com/fn79">fn79</a></h2> 
  
- <div>
 <img src="https://avatars.githubusercontent.com/u/74909209?v=4" width="70" height="70" alt="fn79" style="border-radius: 70%; overflow: hidden;">
-  <div>
- <div>
 <img src="https://img.shields.io/badge/Github-fn79-blue">
 <img src="https://img.shields.io/badge/Cute-%3E3%3C-pink">
 <img src="https://img.shields.io/badge/개발팀-success">
@@ -30,23 +27,18 @@
 <img src="https://img.shields.io/badge/Rust-critical">
 <img src="https://img.shields.io/badge/Python-blue">
 <img src="https://img.shields.io/badge/CSharp-yellow">
-  </div>
    
 <br>
 
    <h2><b>빵켓 - <a href="https://github.com/bbangcat">fn79</a></h2> 
     
-    <div>
 <img src="https://avatars.githubusercontent.com/u/80893470?v=4" width="70" height="70" alt="fn79" style="border-radius: 70%; overflow: hidden;">
-  <div>
- <div>
 <img src="https://img.shields.io/badge/Github-bbangcat-blue">
 <img src="https://img.shields.io/badge/Cute-%3E3%3C-pink">
 <img src="https://img.shields.io/badge/개발팀-success">
 <img src="https://img.shields.io/badge/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-!%20Bread%20Cat%230002-informational">
 <br>
 <img src="https://img.shields.io/badge/부계정-red">
-  </div>
    
 <br>
 
