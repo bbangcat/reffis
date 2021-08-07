@@ -29,7 +29,7 @@
 
 <br>
 
- <img src="https://avatars.githubusercontent.com/u/74909209?v=4" height=70 width=70 alt="fn79" style="width: 150px; height: 150px; border-radius: 70%; overflow: hidden;">
+ <img src="https://avatars.githubusercontent.com/u/74909209?v=4" alt="fn79" style="width: 150px; height: 150px; border-radius: 70%; overflow: hidden;">
 
 <br><br><br>
 
