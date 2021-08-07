@@ -36,7 +36,7 @@
 <img src="https://avatars.githubusercontent.com/u/80893470?v=4" width="70" height="70" alt="fn79" style="border-radius: 70%; overflow: hidden;">
  <br>
 <img src="https://img.shields.io/badge/Github-bbangcat-blue">
-<img src="https://img.shields.io/badge/부계정-red">
+<img src="https://img.shields.io/badge/부계정-informational">
    
 <br>
 
