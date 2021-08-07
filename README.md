@@ -31,7 +31,7 @@
    
 <br>
 
-   <h2><b>빵켓 - <a href="https://github.com/bbangcat">fn79</a></h2> 
+   <h2><b>빵켓 - <a href="https://github.com/bbangcat">bbangcat</a></h2> 
     
 <img src="https://avatars.githubusercontent.com/u/80893470?v=4" width="70" height="70" alt="fn79" style="border-radius: 70%; overflow: hidden;">
  <br>
