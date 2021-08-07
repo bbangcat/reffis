@@ -17,7 +17,8 @@
 <br><br>
 
 <h2><b>빵켓 - <a href="https://github.com/fn79">fn79</a></h2> 
-
+<img src="https://avatars.githubusercontent.com/u/74909209?v=4" width="70" height="70" alt="fn79" style="border-radius: 70%; overflow: hidden;">
+ <div>
 <img src="https://img.shields.io/badge/Github-fn79-blue">
 <img src="https://img.shields.io/badge/Cute-%3E3%3C-pink">
 <img src="https://img.shields.io/badge/개발팀-success">
@@ -26,10 +27,9 @@
 <img src="https://img.shields.io/badge/Rust-critical">
 <img src="https://img.shields.io/badge/Python-blue">
 <img src="https://img.shields.io/badge/CSharp-yellow">
+  </div>
 
 <br>
-
- <img src="https://avatars.githubusercontent.com/u/74909209?v=4" width="70" height="70" alt="fn79" style="border-radius: 70%; overflow: hidden;">
 
 <br><br><br>
 
